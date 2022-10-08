@@ -1,4 +1,4 @@
-# Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">, I'm Surendar 
+# Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">, I'm Venkatesh
 
 ### About me
 
@@ -9,14 +9,11 @@
 
 ### Connect with me
 
-<a href="mailto:surendar.sv024@gmail.com">
+<a href="mailto:venkateshknr01@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/surendar-sv-a940821bb/">
+<a href="https://www.linkedin.com/in/venkatesh-a-a32016229/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
-<a href="https://twitter.com/surendarexe">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-</a>
-<a href="tel:+918680040193">
+<a href="tel:+919629544796">
 </a>
